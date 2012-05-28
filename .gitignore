@@ -1,4 +1,9 @@
 *.class
+*.classpath
+*.project
+*.settings
+*.gitignore~
+target
 
 # Package Files #
 *.jar
